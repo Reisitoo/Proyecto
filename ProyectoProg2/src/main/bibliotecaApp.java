@@ -10,5 +10,7 @@ package main;
  * @author ample
  */
 public class bibliotecaApp {
-    
+    public static void main(String[] args) {
+        
+    }
 }
